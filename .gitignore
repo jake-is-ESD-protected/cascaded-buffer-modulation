@@ -1,0 +1,11 @@
+# plots
+*.pgf
+.ipynb_checkpoints
+
+# music
+processed
+
+# unneeded PIO stuff
+test
+.pio
+.vscode
